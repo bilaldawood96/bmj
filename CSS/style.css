@@ -1,0 +1,46 @@
+
+
+.index { text-align: center;
+margin-left: 40px;}
+
+
+.mainhome{
+    
+    width: 1200px;
+    height: auto;
+}
+
+
+.logog {
+    width: 1250px;
+    height: 250px;
+}
+
+ul li {
+    display: inline;
+    margin: 10px;}
+
+ .frontbutton {
+    font-size: 25px;
+    text-decoration: none;}
+
+    .bilal {
+        border-color: lightpink;
+        border-radius: 10px;
+        margin: 15px;
+        padding: 0 6px;
+        float: left;
+        background-color: white;}
+
+        .loginpage {background-image: url(../Images/login\ page\ 4.png);}
+
+
+.map{
+    width: auto;
+    height: 450;
+    margin-top: 30px ;
+    border-radius: 50px;
+
+     
+    
+}
